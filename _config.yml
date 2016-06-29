@@ -1,0 +1,14 @@
+layout_spectrum: 0.4322003892157227
+typography_spectrum: 0.39886777964420617
+color:
+  brandStrength: 0.6502696755342185
+  lightness: 0.45177764911204576
+  saturation: 0.5373350938316435
+  rhythmicContrast: 0.05793864210136235
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+name: unbound human
